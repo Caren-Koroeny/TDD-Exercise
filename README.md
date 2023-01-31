@@ -1,4 +1,4 @@
-# TDD-ExerciseInstructions
+# TDD-Exercise Instructions
 Create a new GitHub repository for this exercise.
 
 **Task 1**
