@@ -1,0 +1,23 @@
+{
+  "name": "tdd-exercise",
+  "version": "1.0.0",
+  "description": "Create a new GitHub repository for this exercise.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Caren-Koroeny/TDD-Exercise.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Caren-Koroeny/TDD-Exercise/issues"
+  },
+  "homepage": "https://github.com/Caren-Koroeny/TDD-Exercise#readme",
+  "dependencies": {
+    "jest": "^29.4.1"
+  }
+}
